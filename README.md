@@ -16,4 +16,4 @@ Da uma olhada na aba [Releases](https://github.com/Rafadegolin/InternetSpeedTest
 [MIT License](./LICENSE) © [Rafael Degolin](https://github.com/Rafadegolin)
 
 ## Clique aqui para jogar:
-[App Clima](https://rafadegolin.github.io/InternetSpeedTest/)
+[Speed Test](https://rafadegolin.github.io/InternetSpeedTest/)
