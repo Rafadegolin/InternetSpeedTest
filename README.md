@@ -1,6 +1,6 @@
 # Teste de Velocidade Internet / Internet Speed Test
 
-> Projeto de um aplicativo simples que mostra a velocidade da internet.
+> Projeto de um aplicativo simples que mostra a velocidade da internet, utilizando uma simples API.
 >
 > Vai te mostrar a velocidade em Mbs, Kbps e Bits.
 >
